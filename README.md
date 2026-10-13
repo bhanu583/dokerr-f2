@@ -1,2 +1,2 @@
 # dokerr-f2
-#Continuous Integration test using AWS CodeBuild
+Testing automatic CI with AWS CodeBuild
